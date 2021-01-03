@@ -15,4 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathraj-coder&show_icons=true" alt="sarathraj-coder" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarathraj-coder&show_icons=true" alt="sarathraj-coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarathraj-coder" alt="sarathraj-coder" /></p>
