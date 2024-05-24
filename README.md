@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathraj-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sarathraj-coder" /> </p>
 
 
-- 🌱 I’m currently learning **kotlin,Kubernetics,Helm and application security**
+- 🌱 I’m currently learning **Rust**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
